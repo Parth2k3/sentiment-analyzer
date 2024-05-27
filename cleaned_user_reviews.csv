@@ -1,0 +1,51 @@
+id,review,cleaned_review,vader_sentiment
+1,I love this app! It is so useful and easy to use.,i love this app it is so useful and easy to use,positive
+2,Terrible experience. The app crashes all the time.,terrible experience the app crashes all the time,negative
+3,Decent app but needs improvement in the UI.,decent app but needs improvement in the ui,positive
+4,Fantastic! This app has changed my life.,fantastic this app has changed my life,positive
+5,"The app is okay, but it lacks many features.",the app is okay but it lacks many features,neutral
+6,Worst app ever. It is full of bugs.,worst app ever it is full of bugs,negative
+7,Excellent functionality and user-friendly design.,excellent functionality and userfriendly design,positive
+8,"Not bad, but there are better alternatives out there.",not bad but there are better alternatives out there,positive
+9,I'm very satisfied with this app. Highly recommended!,im very satisfied with this app highly recommended,positive
+10,The app is slow and unresponsive at times.,the app is slow and unresponsive at times,neutral
+11,"Good app, but it could use some updates.",good app but it could use some updates,neutral
+12,I had a bad experience. The customer support is unhelpful.,i had a bad experience the customer support is unhelpful,negative
+13,Amazing app! Very intuitive and efficient.,amazing app very intuitive and efficient,positive
+14,It's an average app. Nothing special.,its an average app nothing special,negative
+15,I've been using this app for months and I love it.,ive been using this app for months and i love it,positive
+16,Disappointed. The app doesn't work as advertised.,disappointed the app doesnt work as advertised,negative
+17,"Pretty good app, but there's room for improvement.",pretty good app but theres room for improvement,positive
+18,I wouldn't recommend this app to anyone.,i wouldnt recommend this app to anyone,negative
+19,"The app is great, but it crashes occasionally.",the app is great but it crashes occasionally,neutral
+20,Very pleased with this app. It meets all my needs.,very pleased with this app it meets all my needs,positive
+21,This app exceeded my expectations.,this app exceeded my expectations,neutral
+22,The interface is cluttered and confusing.,the interface is cluttered and confusing,negative
+23,"Great app, but a bit overpriced.",great app but a bit overpriced,neutral
+24,Very buggy. Needs a lot of improvements.,very buggy needs a lot of improvements,neutral
+25,The customer service was excellent.,the customer service was excellent,positive
+26,I found this app to be very intuitive.,i found this app to be very intuitive,neutral
+27,Not worth the money. I want a refund.,not worth the money i want a refund,neutral
+28,The best app in its category!,the best app in its category,positive
+29,The latest update broke many features.,the latest update broke many features,negative
+30,Highly useful for my daily tasks.,highly useful for my daily tasks,positive
+31,I encountered frequent crashes.,i encountered frequent crashes,neutral
+32,Very satisfied with the performance.,very satisfied with the performance,positive
+33,The design is sleek and modern.,the design is sleek and modern,neutral
+34,The app is not compatible with my device.,the app is not compatible with my device,neutral
+35,I love the new features in the latest update.,i love the new features in the latest update,positive
+36,The app drains my battery quickly.,the app drains my battery quickly,neutral
+37,User-friendly and efficient.,userfriendly and efficient,positive
+38,Too many ads make it unusable.,too many ads make it unusable,neutral
+39,Reliable and performs well.,reliable and performs well,neutral
+40,The app is okay but needs more features.,the app is okay but needs more features,neutral
+41,"It’s good, but I had higher expectations.",it’s good but i had higher expectations,neutral
+42,I’ve had a smooth experience so far.,i’ve had a smooth experience so far,neutral
+43,Not intuitive at all. Very complicated.,not intuitive at all very complicated,neutral
+44,One of the best apps I’ve used.,one of the best apps i’ve used,positive
+45,The app often freezes and crashes.,the app often freezes and crashes,neutral
+46,Helpful customer support.,helpful customer support,positive
+47,The app doesn’t have enough tutorials.,the app doesn’t have enough tutorials,neutral
+48,Fantastic performance and reliability.,fantastic performance and reliability,positive
+49,I wouldn’t use any other app.,i wouldn’t use any other app,neutral
+50,The app could use a dark mode.,the app could use a dark mode,neutral
